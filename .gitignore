@@ -1,0 +1,16 @@
+.idea
+.classpath
+.project
+.springBeans
+*/*.iml
+*/target/
+*/stdout.log
+*.iml
+target
+stdout.log
+menudata
+.devserver
+*/dependency-reduced-pom.xml
+target/
+.settings/*
+*/.settings/*
