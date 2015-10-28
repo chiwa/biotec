@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  
+spring:
+  view:
+    prefix: /WEB-INF/jsp/
+    suffix: .jsp 
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost/arnon?useUnicode=true&amp;characterEncoding=UTF-8
+    username: biotecadmin
+    password: P@ssw0rd
+    max-idle: 3600
+
+    
