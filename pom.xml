@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>biotec</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Biotec Project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -43,6 +43,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.mchange</groupId>
+			<artifactId>c3p0</artifactId>
+			<version>0.9.5</version>
 		</dependency>
 	</dependencies>
 
