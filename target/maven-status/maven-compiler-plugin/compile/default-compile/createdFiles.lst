@@ -1,2 +1,4 @@
-bt\biotec\controller\BiotecApplication.class
-bt\biotec\controller\MyController.class
+bt/biotec/controller/BiotecApplication.class
+bt/biotec/configuration/BiotecConfiguration.class
+bt/biotec/controller/MyController.class
+bt/biotec/utils/ShellScriptAndFileOperation.class

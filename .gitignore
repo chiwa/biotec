@@ -2,6 +2,9 @@
 .classpath
 .project
 .springBeans
+mvnw
+mvnw.cmd
+.mvn
 */*.iml
 */target/
 */stdout.log
